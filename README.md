@@ -1,2 +1,2 @@
 # APKDownloader
-Evozi's APK Downloader API in PHP
+An easy to use PHP wrapper for the Evozi APK Downloader API.
